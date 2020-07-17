@@ -23,5 +23,5 @@ To run the project on your local machine, you will require the exact build of pa
 ```
 
 ### Instructions
-1. Download [File1 Code.py](https://github.com/sharmanitin1507/TCS-iON-Remote-Internship-210/blob/master/File1%20Code.py) , [File2 Code.py](https://github.com/sharmanitin1507/TCS-iON-Remote-Internship-210/blob/master/File2%20Code.py) and [TestData.zip](
+1. Download [File1 Code.py](https://github.com/sharmanitin1507/TCS-iON-Remote-Internship-210/blob/master/File1%20Code.py) , [File2 Code.py](https://github.com/sharmanitin1507/TCS-iON-Remote-Internship-210/blob/master/File2%20Code.py) and [TestData.zip](https://github.com/sharmanitin1507/TCS-iON-Remote-Internship-210/blob/master/TestData.zip) available in the [repo.](
 

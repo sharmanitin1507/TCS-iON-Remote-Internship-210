@@ -10,7 +10,7 @@ To run the project on your local machine, you will require the exact build of pa
 2. Add Python 3.7.6 to PATH.
 3. Install [PyCharm IDE Community Version.](https://www.jetbrains.com/pycharm/download/#section=windows)
 4. Add launcher directory to PATH during installation.
-5. Create a blank project with base interpreter. Python37/python.exe
+5. Create a blank project with base interpreter. `Python37/python.exe`
 ### Packages
 ```
 

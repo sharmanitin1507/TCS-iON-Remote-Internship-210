@@ -1,5 +1,5 @@
 # TCS-iON-Remote-Internship-210
-Project Work.
+# Project Work.
 - **Name:** NITIN SHARMA
 - **Institute:** Amity University Noida, Uttar Pradesh.
 - **Project Title:** Automate identification and recognition of handwritten text from an image.

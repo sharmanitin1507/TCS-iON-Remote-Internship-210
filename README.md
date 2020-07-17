@@ -12,7 +12,7 @@ To run the project on your local machine, you will require the exact build of pa
 4. Add launcher directory to PATH during installation.
 5. Create a blank project with base interpreter. Python37/python.exe
 ### Packages
----
+```
 
 - Keras                 2.3.1
 - matplotlib            3.1.3
@@ -20,7 +20,7 @@ To run the project on your local machine, you will require the exact build of pa
 - opencv-python         4.2.0.32
 - sklearn               0.0
 - tensorflow            2.0.0
----
+```
 
 ### Instructions
 1. Download [File1 Code.py](
